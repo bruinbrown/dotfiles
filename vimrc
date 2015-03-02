@@ -8,3 +8,4 @@ set expandtab
 set backspace=indent,eol,start
 let g:fsharp_xbuild_path="/usr/bin/xbuild"
 autocmd vimenter * NERDTree
+let g:airline#extensions#tabline#enabled = 1
